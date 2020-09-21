@@ -1,2 +1,2 @@
-Create a Project on TIM-BERNERS-LEE
+Create a project on TIM-BERNERS-LEE
 https://saranyakannan-v.github.io/tim-berners-lee/
