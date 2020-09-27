@@ -1,127 +1,131 @@
+/* desing the body */
 
-/* Style the body */
 body {
-	margin: 0;
-	font-family: "Open Sans", sans-serif;
-	background-color: #eee;
-	color: #808080;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background-color: #eee;
+    /* very shade of gray */
+    color: #808080;
+    /* gray */
 }
 
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 ul {
-	list-style-type: none;
+    list-style-type: none;
 }
 
 li {
-	/*padding-bottom: 10px;
+    /*padding-bottom: 10px;
 	font-weight: 400;*/
 }
 
+
 /* Style the blocks */
+
 .TIM {
-	background-color: #fff;
-	width: 40%;
-	margin: auto;
-	margin-top: 40px;
-	margin-bottom: 40px;
-	padding: 30px;
-	padding-bottom: 15px;
-	text-align: center;
-	border-radius: 4px;
+    background-color: #fff;
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+    border-radius: 4px;
 }
 
 #Project h1 {
-	color: #de454c;
-	font-weight: 800;
+    color: #de454c;
+    font-weight: 800;
 }
 
 #Project h3 {
-	color: grey;
+    color: grey;
 }
+
 #Project p {
-	margin-bottom: 5px;
-	text-align: justify;
+    margin-bottom: 5px;
+    text-align: justify;
 }
 
 #Project img {
-	width: 25%;
-	border-radius: 50%;
-	border: 3px solid #ccc;
+    width: 25%;
+    border-radius: 50%;
+    border: 3px solid #ccc;
 }
 
+
 /* Style the first block */
+
 .SFY-button {
-	background-color: #de454c;
-	border: none;
-	color: white;
-	padding: 10px 6px;
-	border-radius: 4px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 13px;
-	margin: 4px 2px;
-	cursor: pointer;
-	letter-spacing: 0.5px;
+    background-color: #de454c;
+    border: none;
+    color: white;
+    padding: 10px 6px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    letter-spacing: 0.5px;
 }
 
 
 /*block 2*/
+
 ul.soc {
-	display: inline-block;
-	padding: 0 25px;
+    display: inline-block;
+    padding: 0 25px;
 }
 
-#Social-Links li, #Social-Links a {
-	color: #ccc;
-	font-size: 22px;
+#Social-Links li,
+#Social-Links a {
+    color: #ccc;
+    font-size: 22px;
 }
 
 #Social-Links a {
-	font-size: 14px;
+    font-size: 14px;
 }
 
+
 /* block 3 */
+
 #his {
-	background-color: #ddd;
+    background-color: #ddd;
 }
 
 .movie {
-	display: inline-block;
-	padding: 30px 0;
+    display: inline-block;
+    padding: 30px 0;
 }
 
 .movie .explain {
-	margin-left: 26%;
-	font-size: 14px;
+    margin-left: 26%;
+    font-size: 14px;
 }
 
 .jpg {
-	width: 20%;
-	float: left;
+    width: 20%;
+    float: left;
 }
 
 .jpg img {
-	width: 100%;
+    width: 100%;
 }
 
 .explain h3 {
-	margin-top: 0;
-	margin-bottom: 30px;
+    margin-top: 0;
+    margin-bottom: 30px;
 }
 
 .explain p {
-	text-align: left;
-	font-size: 15px;
-	margin-bottom: 0;
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 0;
 }
-
-
-
-
-
-
-
